@@ -6,4 +6,4 @@ During the initial stages of the project (initial_project.ipynb), I found some i
 
 Upon analyzing the decision tree (dt.ipynb) and support vector machine (svm.ipynb) files, I discovered that several features were especially important in predicting the players' salaries. 
 
-The model may be useful for teams and managers when making data-driven decisions about player contracts and salaries.
+The model will be useful for teams and managers when making data-driven decisions about player contracts and salaries.
